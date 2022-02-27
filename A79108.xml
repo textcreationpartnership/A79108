@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties speech to the commissioners at Nottingham, on Saturday the 13. of February, in the praise of Sir Thomas Fairfax, concerning the trust which was reposed in him by the Parliament. And his fidelity to His Majestie. With divers questions propounded by His Majestie to his Excellency Sir Thomas Fairfax. And Sir Thomas Fairfax his answer to His Majesty again concerning them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79108</idno>
+            <idno type="STC">Wing C2799</idno>
+            <idno type="STC">Thomason E377_12</idno>
+            <idno type="STC">ESTC R201361</idno>
+            <idno type="EEBO-CITATION">99861885</idno>
+            <idno type="PROQUEST">99861885</idno>
+            <idno type="VID">159954</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79108)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159954)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E377[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties speech to the commissioners at Nottingham, on Saturday the 13. of February, in the praise of Sir Thomas Fairfax, concerning the trust which was reposed in him by the Parliament. And his fidelity to His Majestie. With divers questions propounded by His Majestie to his Excellency Sir Thomas Fairfax. And Sir Thomas Fairfax his answer to His Majesty again concerning them.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.H.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>February 19. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not Charles I's speech and Sir Thomas Fairfax's answer; a narrative.</note>
+                  <note>Annotation on Thomason copy: "1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159954:1" rendition="simple:additions"/>
+            <p>The Kings Majeſties SPEECH TO The Commiſsioners at <hi>Nottingham,</hi> on Saturday the 13. of February, In the praiſe of Sir <hi>Thomas Fairfax,</hi> concerning the Truſt which was repoſed in him by the Parliament. And his fidelity to His Majeſtie.</p>
+            <p>With divers Queſtions propounded by His Majeſtie to his Excellency Sir <hi>Thomas Fairfax.</hi>
+            </p>
+            <p>And Sir <hi>Thomas Fairfax</hi> his Anſwer to His Majeſty again concerning them.</p>
+            <figure>
+               <figDesc>Charles I's royal blazon</figDesc>
+               <p>C R</p>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>E. H. February</hi> 19. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159954:2"/>
+            <pb n="1" facs="tcp:159954:2"/>
+            <head>The Kings Majeſties SPEECH TO The Commiſsioners at <hi>Nottingham</hi> in the praiſe of his Excellency Sir THOMAS FAIREFAX, in divers reaſons which he ſhew<g ref="char:EOLhyphen"/>ed to them.</head>
+            <p>ON Saturday February 13. his Excel<g ref="char:EOLhyphen"/>lency Sir THOMAS FAIRFAX having his head quarters in Nottingham, to which His Majeſty was to come, attended by the Parliaments Commiſsioners from <hi>Mansfield,</hi> and not by Newark, as was firſt inten<g ref="char:EOLhyphen"/>ded, was in a ſtrait, how he ſhould deport himſelfe towards his Majeſty, being Generall for the Parlia<g ref="char:EOLhyphen"/>ment, and was like to undergoe the cenſures of di<g ref="char:EOLhyphen"/>vers ſpirits, whether way ſoever hee moved, but at laſt, concluded it were better for him to ſuffer for
+<pb n="2" facs="tcp:159954:3"/> civilities, then the contrary: hee commanded that certaine of his Officers ſhould prepare themſelves to attend him, to meet his Majeſtie and wait upon him, which was accordingly: few that were inferiour to Captaines went: theſe marched neere two miles, met his Majeſty; His Majeſty after ſome ſpace, percei<g ref="char:EOLhyphen"/>ved who it was, and caſting his eye upon the Gene<g ref="char:EOLhyphen"/>rall, the Generall alighted and kiſſed his Majeſties hand, ayd after mounting, conducted him into the Towne, and to his lodging.</p>
+            <p>His Majeſty as it is ſaid, asked the Generall, what Fo ces were gone for <hi>Ireland,</hi> and of my Lord <hi>Liſle;</hi> to which the Generall gave anſwer, purporting the Parliaments care, and ſtrong intentions for a ſpeedy reducing that Kingdome.</p>
+            <p>His Majeſty hath moved every day ſave the Sab<g ref="char:EOLhyphen"/>bath, notwithſtanding the badneſſe of the weather, being ſnowy and ſtormy; when his Majeſty paſt from Leeds the people more then 5000. appeared, crying, a King, a King.</p>
+            <p>His Majeſty ſtill refuſes to heare the Commiſſio<g ref="char:EOLhyphen"/>ners Miniſters Preach or pray, reſolving, firſt to have ſatisfaction to his objections, and give his conſent to the eſtabliſhment of Presbytery a King, before hee acts in it.</p>
+            <p>Upon the 13. of <hi>February</hi> being Saturday, The Kings Majeſty about ſeven of the clock in the mor<g ref="char:EOLhyphen"/>ning went out of <hi>Nottingham,</hi> attended by the Gene<g ref="char:EOLhyphen"/>rall with his Officers, and after leave taken depar<g ref="char:EOLhyphen"/>ted.</p>
+            <p>His Majeſty after the Generall was gone, ſaid to
+<pb n="3" facs="tcp:159954:3"/> ſome of the Commiſſioners as followeth, which is in praiſe of his Excellency Sir <hi>Thomas Fairfax.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="speech">
+               <body>
+                  <head>His Speech is this,</head>
+                  <p>THat the Generall was a perſon of Honour, Faithfull to his truſt, and one, that ever kept his word with him, that is, in keeping promiſes and Articles of War, and in uſing priſoners, with ſuch reſpect, as was fit for men in that conditi<g ref="char:EOLhyphen"/>on, and as he would expect in ſuch a con<g ref="char:EOLhyphen"/>dition.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>A Letter ſent from <hi>Nottingham,</hi> to his loving friend in <hi>London.</hi>
+                  </head>
+                  <opener>
+                     <salute>Noble Sir,</salute>
+                  </opener>
+                  <p>I Thanke you for your laſt, you need not conjecture that there is any excommunication betweene our pens, yeſterday his Majeſty came from Mansfield, the Generals Excellency had notice of his Majeſties com<g ref="char:EOLhyphen"/>ming hither that day, and therefore went to meet him.</p>
+                  <p>His Excellency with the chiefe Officers (none un<g ref="char:EOLhyphen"/>der Captains) went from hence towards Beſcot Park, and about 2. miles of, met the King neere Beſcot, who was then coming hither with the Commiſſioners and Gentlemen.</p>
+                  <pb n="4" facs="tcp:159954:4"/>
+                  <p>The King made a ſtop, when the Generall came to him, and his Excellency alighting, his Majeſty gave him his hand to kiſſe. But his Majeſtie ſpake not one word to the Generall, neither did the Generall ſpeak any thing to his Majeſtie.</p>
+                  <p>His Majeſtie looking very earneſtly on all our Of<g ref="char:EOLhyphen"/>ficers, but ſaid nothing to them, onely rid cheerfully along till they came hither.</p>
+                  <p>The Generall waited on the King to his lodging; and went with his Majeſtie to the Privy-Chamber-doore, but went not in with the King, nor afterwards to his Majeſtie that night.</p>
+                  <p>The next morning the Generall wayted on his Majeſtie againe, and then the King had much more diſcourſe with the Generall, then he had the day be<g ref="char:EOLhyphen"/>fore. Wherein his Majeſtie propounded divers que<g ref="char:EOLhyphen"/>ſtions to the Generall, concerning the affaires of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and divers other reaſons, and was diſcreetly and wiſely anſwered againe by his Excellency the Gene<g ref="char:EOLhyphen"/>rall.</p>
+                  <p>His Majeſtie againe enquired much after the Lord <hi>Liſle,</hi> and concerning the buſineſſe of <hi>Ireland</hi> and the Forces deſired for that ſervice, and many other things in relation to preparations, and proſecutions of that Warre.</p>
+                  <p>The Generall likewiſe gave his Majeſtie exceeding wiſe and diſcreet Anſwers: As becommeth a Per<g ref="char:EOLhyphen"/>ſon of honour, and yet ſo reſerved, that his Majeſty had little from his Excellency that could adde to his Majeſty by way of information, the gallant and diſ<g ref="char:EOLhyphen"/>creet Anſwers which hee made to his Majeſtie was
+<pb n="5" facs="tcp:159954:4"/> admitted, the noble and faithfulneſſe of this valiant Generall hath beene ſo ſpread abroad, that all the Chriſtian World will love him, for the favour and mercy which hee hath ſhewed to his Enemies, and ſo he hath gotten the love of his King, Parliament, and Country even to his dying day.</p>
+                  <p>His Majeſtie with the Commiſſioners intended to lye that night at Leiceſter, and ſtay there the Lords day, and that night, and then to goe for Holmby on Monday, to be there Munday night, Sir this is all at this time from</p>
+                  <closer>
+                     <dateline>
+                        <hi>Nottingham</hi>
+                        <date>this 13. of <hi>February,</hi> 1646.</date>
+                     </dateline>
+                     <signed>Your humble ſervant <hi>W. Smith.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The Earle of Stamford. Mr. <hi>Aſhurſt,</hi> and M. <hi>Good<g ref="char:EOLhyphen"/>win,</hi> went from hence yeſterday to <hi>Morpith,</hi> farther North.</p>
+            <p>His Excellency Generall <hi>Leven</hi> came into the town of <hi>Barwick</hi> with a ſmall retinue of his Officers and Gentlemen, and lodged there all night.</p>
+            <p>The next morning his Excellency with his atten<g ref="char:EOLhyphen"/>dants went from hence into Scotland, and ſo to goe on toward <hi>Edenburgh,</hi> having left inſtructions with his Officers what to doe in the managing of the Scots ſouldiers through their Towne, out of England in<g ref="char:EOLhyphen"/>to Scotland.</p>
+            <p>It is reported by ſome that came out of Scotland, that have beene at <hi>Edenburgh,</hi> who ſay that Kolkit<g ref="char:EOLhyphen"/>toth with his Forces, is within thirty miles of Eden<g ref="char:EOLhyphen"/>burgh: the truth thereof, I do not certainly know, but it ſeemes that either hee or ſome of his party have
+<pb n="6" facs="tcp:159954:5"/> given them an alarum aboue <hi>Edenburgh,</hi> but ere long I make no queſtion, but you will heare of ſome paſ<g ref="char:EOLhyphen"/>ſages between them and the Scots Forces when they are come into Scotland, and begin to draw a little nearer to them.</p>
+            <p>The Parliament of Scotland have had their ſeve<g ref="char:EOLhyphen"/>rall debates of late, about their joyning with the Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> in ſending Commiſſioners to his Majeſty, to preſſe him to take the Covenant, and ſigne the Propoſitions. They have received Letters from the Generall Aſſembly of the Kirk about it.</p>
+            <p>The faire correſpondence with the Parliament of <hi>England</hi> and <hi>Scotland</hi> doth much encourage the hearts of all true-hearted Subjects in both Kingdomes, and the gallant uſage of his Majeſty at <hi>Holmby,</hi> that there is no fear or Jealouſies any more in both Kingdomes, and I make no doubt, but that God will ere long, ſo worke it in his Majeſties heart, that he will bee wil<g ref="char:EOLhyphen"/>ling to take the Covenant and ſigne the Propoſitions, to the joy of all his loving Subjects, and the good of himſelfe and his poſterity hereafter.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
